@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+	<ModMetaData>
+		<name>Lag Free Lamps</name>
+		<author>Neceros</author>
+		<supportedVersions>
+      <li>1.0</li>
+      <li>1.1</li>
+    </supportedVersions>
+    <packageId>neceros.lagfreelamps</packageId>
+		<description>Removes the fuel requirement for lamps. Yes, it's less realistic but it's less laggy.</description>
+</ModMetaData>
