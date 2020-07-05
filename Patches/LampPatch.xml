@@ -5,7 +5,7 @@
     <xpath>/Defs/ThingDef[defName="RGK_lamp"]</xpath>
     <success>Always</success>
     <match Class="PatchOperationRemove">
-      <xpath>/Defs/ThingDef[defName="RGK_lamp"]/comps/li[@Class="CompProperties_Refuelable"]</xpath>
+      <xpath>/Defs/ThingDef[defName="RGK_lamp" or defName="RGK_LampM" or defName="GL_lamp_White" or defName="GL_LampM_White" or defName="RGK_Street_Lamp_L" or defName="RGK_Street_Lamp_Seven" or defName="GL_Street_Lamp_L_White" or defName="GL_Street_Lamp_Seven_White" or defName="GL_Wall_Lamp" or defName="GL_Wall_Lamp_White"]/comps/li[@Class="CompProperties_Refuelable"]</xpath>
     </match>
   </Operation>
 
